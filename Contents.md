@@ -33,48 +33,49 @@
    4. Пример. strcpy + argv + backdoor
    5. Задание
 5. Threat modeling
-6. Application Hardening
-   1. NonExecutable stack
-      1. Пример. return to libc
-   2. ASRL
-      1. Пример. угадай
-   3. SSP
-      1. Пример. Перезапись локальной переменной
-   4. FORTIFY_SOURCE
+6. Secure Coding
 7. SAST
    1. Пример. clang-tidy
    2. Пример. PVS-Studio
 8. Задание. wavefront obj
-9. DAST
+9.  DAST
    1. Пример. ASAN
    2. Пример. afl-fuzz
    3. Пример. libfuzzer
 10. Задание. libpng
-11. Heap buffer overflow
+11. Application Hardening
+   4. NonExecutable stack
+      1. Пример. return to libc
+   5. ASRL
+      1. Пример. угадай
+   6. SSP
+      1. Пример. Перезапись локальной переменной
+   7. FORTIFY_SOURCE
+12. Heap buffer overflow
     1.  Устройство аллокатора
     2.  GOT
     3.  Пример. strcpy+strcpy
     4.  Пример. unlink
-12. Задание. ?
-13. 3rd party vulnerabilities
+13. Задание. ?
+14. 3rd party vulnerabilities
     1.  CVSS, CVE, CWE
     2.  Пример. ?
-14. Задание. ?
-15. 1-byte overflow
+15. Задание. ?
+16. 1-byte overflow
     1.  ПРимер ?
-    1.  Задание. ?
-16. integer overflow
+    2.  Задание. ?
+17. integer overflow
     1.  Пример ?
     2.  Пример. UBSAN
     3.  Задание
-17. Signedness bugs
+18. Signedness bugs
     1.  Пример
     2.  Задание. nullhttpd?
-18. Hardening CI/CD
+19. Hardening CI/CD
     1.  ?
-19. Response
+20. Response
     1.  Bug bounty
     2.  Mitigation plan
-20. Заключение
-21. Обзор источников
+21. Заключение
+22. Обзор источников
     
