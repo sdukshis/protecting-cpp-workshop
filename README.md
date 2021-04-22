@@ -12,9 +12,12 @@
 6. https://www.exploit-db.com
 7. libpng CVE https://www.cvedetails.com/cve/CVE-2004-0597/
 8. https://vulmon.com/vulnerabilitydetails?qid=CVE-2004-0597
-9.  buggy png https://github.com/DSTCyber/from-crashes-to-exploits
+9.  From Crashes to Exploits https://github.com/DSTCyber/from-crashes-to-exploits
 10. LinuxFlaw https://github.com/mudongliang/LinuxFlaw
 11. Exploiting the Heap https://www.bencode.net/posts/2019-10-19-heap-overflow/
 12. New Exploit Methods against Ptmalloc of GLIBC
 https://loccs.sjtu.edu.cn/~romangol/publications/trustcom16.pdf
 12. https://heap-exploitation.dhavalkapil.com
+13. Off-by-One exploitation tutorial https://www.exploit-db.com/docs/english/28478-linux-off-by-one-vulnerabilities.pdf
+14. Integer overflow/underflow exploitation tutorial https://www.exploit-db.com/docs/english/28477-linux-integer-overflow-and-underflow.pdf
+15. 
